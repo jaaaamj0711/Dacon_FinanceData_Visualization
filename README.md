@@ -1,5 +1,3 @@
 # 데이콘 제정데이터 시각화
 
-코랩환경에서 Konlp R 패키지 설치 실패 -> 파이썬으로 대체하여 
-
-https://public.tableau.com/app/profile/.67896072/viz/Dacon/1_5
+최종 결과 링크: https://dacon.io/competitions/official/235767/codeshare/3253
